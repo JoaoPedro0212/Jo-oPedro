@@ -1,4 +1,4 @@
-<h1 align="center">🧙‍♂️ Bem-vindo ao covil de <strong>SEU_NOME</strong> ⚔️</h1>
+<h1 align="center">🧙‍♂️ Bem-vindo ao covil de <strong>JOPE</strong> ⚔️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Codificando+feitiços...;Afiando+a+espada...;Preparando+a+missão..." alt="Typing SVG" />
