@@ -7,9 +7,9 @@
 ---
 
 ### 🎮 Classe: Dev Arcano
-- 🧙‍♂️ **Nível**: 21
-- 📜 **Guilda**: Flash Traffic
-- 🛡️ **Especialidade**: Tráfego Pago & Desenvolvimento Web
+- 🧙‍♂️ **Nível**: 18
+- 📜 **Guilda**: AMBIÇÃO 
+- 🛡️ **Especialidade**: Desenvolvimento Web,Desenho,rato de GYM
 - 💼 **Missões Atuais**:
   - Criar projetos mágicos com JavaScript
   - Ajudar pequenos negócios com feitiços de marketing digital
